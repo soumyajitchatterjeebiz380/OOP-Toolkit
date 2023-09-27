@@ -1,5 +1,0 @@
-# Java files
-*.java linguist-language=Java
-
-# Python files
-*.py linguist-language=Python
